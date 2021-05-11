@@ -1,6 +1,6 @@
 /********************************************************************
 * N.Kozak // Lviv'2020 // ACM // BLAS(uBLAS from Boost) use example *
-*    file: acmhw21.cpp                                              *
+*    file: acmhw23.cpp                                              *
 *********************************************************************/
 //#include <vector> // not used !
 #include <iostream>
